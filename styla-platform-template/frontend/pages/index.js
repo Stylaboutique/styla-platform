@@ -2,7 +2,7 @@
 export default function Home() {
   return (
     <div style={{background:"#000",color:"#fff",minHeight:"100vh",textAlign:"center",paddingTop:"120px"}}>
-      <h1 style={{fontSize:"48px"}}>STYLA – Your Personal AI Stylist</h1>
+      <h1 style={{fontSize:"48px"}}>STYLA – HELLO</h1>
       <p style={{marginTop:"20px"}}>
         Discover outfits curated from your wardrobe and lifestyle.
       </p>
